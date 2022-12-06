@@ -1,0 +1,1 @@
+main{text-align:center;vertical-align:center;line-height:100vh}.fadein{font-size:medium;position:relative;overflow:hidden;animation:fadein 7s ease-in-out}@keyframes fadein{0%{opacity:0;transform:translateY(20px)}to{opacity:1;transform:none}}
