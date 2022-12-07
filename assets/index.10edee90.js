@@ -184,7 +184,6 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   width: 15%;
   position: fixed;
   right: 5rem;
-  margin-right: 13%;
   margin-top: 70px;
   div {
     display: flex;
